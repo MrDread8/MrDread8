@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrDread8
 - 👀 I’m interested in Webdev, Gamedev
-- 🌱 I’m currently learning python/node/c#
-- 💻 I'm currently working on Better Bitwarden Cli
+- 🌱 I’m currently learning c
+- 💻 I'm currently working ricing my dwm
 - 💞️ I’m looking to collaborate on indie gamedev
 - 📫 How to reach me Discord/GitHub
 <!---
